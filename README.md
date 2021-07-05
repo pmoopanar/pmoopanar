@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pmoopanar
 - 👀 I’m interested in Electronics hardware design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... pmoopanar@gmail.com
 
 <!---
