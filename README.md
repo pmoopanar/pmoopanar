@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmoopanar
 - 👀 I’m interested in Electronics hardware design
-- 📫 How to reach me ... pmoopanar@gmail.com
+- 📫 How to reach me ... pmoopanar@neoglacia.com
 
 <!---
 pmoopanar/pmoopanar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
