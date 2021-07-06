@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pmoopanar
-- 👀 I’m interested in Electronics hardware design
 - 📫 How to reach me ... pmoopanar@neoglacia.com
 
 <!---
